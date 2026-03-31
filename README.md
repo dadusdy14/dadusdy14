@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hi, I'm DaYeon
-
-📚 🍊 🌊 🎵 
+## 👋 Hi, I'm DaYeon 📚
+- 제주대학교 인공지능학과 2학년
 
 ## 🎯 Interests
 - Drone Anomaly Detection
@@ -26,11 +25,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+
 
 ## 📂 Projects
 - 응급환자 분류 챗봇 서비스
-- 안전 Mbti 분류 서비스
+- 안전 MBTI 분류 서비스
 
 ## 🏆 Awards
 - 제4회 한국코드페어 SW공모전 동상
